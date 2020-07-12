@@ -14,6 +14,9 @@ At the moment I work at [Bicom Systems](https://bicomsystems.com) leader in VoIP
 - [TraceIT](https://github.com/TechAvangers/TrackIT-iOS) contact tracing API before any other CWA trackers.
 - [BLM](https://github.com/Say-Their-Name/say-their-names-node-service) url shortening service
 
+#### Languages and stacks:
+Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Swift, Bash, Node ,Go ,V and MongoDB 
+
 ### 🙍‍♂️ Personal 
 
 I enjoy reading books and writing blog posts about various tech topics on dev.to
