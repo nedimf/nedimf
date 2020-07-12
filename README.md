@@ -19,7 +19,7 @@ Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Swift, Bash, Node ,Go ,V and Mon
 
 ### 🙍‍♂️ Personal 
 
-I enjoy reading books and writing blog posts about various tech topics on dev.to
+I enjoy reading books and writing blog posts about various tech topics on [dev.to](https://dev.to/nedimf)
 
 You can reach me on [Instagram](https://instagram.com/_nedimf) and [twitter](https://twitter.com/nedimf4).
 
