@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**nedimf/nedimf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nedim, self-taught teen mobile and backend developer from Bosnia and Herzegovina. 
 
-Here are some ideas to get you started:
+I'm currently working on maintaining the [Maildroid](https://github.com/nedimf/maildroid) android library, which has over 130 ⭐️ .  It's a simple and robust wrapper of JavaMail API. It allows users to send emails directly from their own SMTP servers. It's great for getting feedback from a user about your app without opening the default E-mail app, also it can be used for sending anonymous bug reports inside the app.
+Maildroid is used by thousand apps every week and most notebly by [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_US)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also the author of the [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
+
+At the moment I work at [Bicom Systems](https://bicomsystems.com) leader in VoIP solutions. 
+
+#### My other projects :
+- [Mask: Free and powerful AQI monitor](https://play.google.com/store/apps/details?id=co.nedim.themask) is android app for monitoring AQI levels world wide
+- [TraceIT](https://github.com/TechAvangers/TrackIT-iOS) contact tracing API before any other CWA trackers.
+- [BLM](https://github.com/Say-Their-Name/say-their-names-node-service)
+
+### 🙍‍♂️ Personal 
+
+I enjoy reading books and writing blog posts about various tech topics on dev.to
+
+You can reach me on instagram and twitter.
+
+### ⚡  Fun fact 
+I enjoy writing sockets and low level moduels. 
