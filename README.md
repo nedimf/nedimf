@@ -18,7 +18,7 @@ At the moment I work at [Bicom Systems](https://bicomsystems.com) leader in VoIP
 
 I enjoy reading books and writing blog posts about various tech topics on dev.to
 
-You can reach me on instagram and twitter.
+You can reach me on [Instagram](https://instagram.com/_nedimf) and [twitter](https://twitter.com/nedimf4).
 
 ### ⚡  Fun fact 
 I enjoy writing sockets and low level moduels. 
