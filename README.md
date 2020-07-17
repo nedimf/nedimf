@@ -7,7 +7,7 @@ Maildroid is used by thousand apps every week and most notebly by [MacroDroid](h
 
 I'm also the author of the [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
 
-At the moment I work at [Bicom Systems](https://bicomsystems.com) leader in VoIP solutions. 
+At the moment I work at [Bicom Systems](https://bicomsystems.com)- leader in VoIP solutions. 
 
 #### My other projects :
 - [Mask: Free and powerful AQI monitor](https://play.google.com/store/apps/details?id=co.nedim.themask) is android app for monitoring AQI levels world wide
@@ -24,4 +24,4 @@ I enjoy reading books and writing blog posts about various tech topics on [dev.t
 You can reach me on [Instagram](https://instagram.com/_nedimf) and [twitter](https://twitter.com/nedimf4).
 
 ### ⚡  Fun fact 
-I enjoy writing sockets and low level moduels. 
+I enjoy writing sockets and low level modules. 
