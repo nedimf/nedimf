@@ -25,3 +25,8 @@ You can reach me on [Instagram](https://instagram.com/_nedimf) and [twitter](htt
 
 ### ⚡  Fun fact 
 I enjoy writing sockets and low level modules. 
+
+### Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nedimf&repo=maildroid)](https://github.com/nedimf/maildroid)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vlang&repo=v)](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v)
