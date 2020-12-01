@@ -21,7 +21,7 @@ Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Swift, Bash, Node ,Go ,V and Mon
 
 I enjoy reading books and writing blog posts about various tech topics on [dev.to](https://dev.to/nedimf)
 
-You can reach me on [Instagram](https://instagram.com/_nedimf) and [twitter](https://twitter.com/nedimf4).
+You can reach me on [instagram](https://instagram.com/nedimcodes) and [twitter](https://twitter.com/nedimcodes).
 
 ### ⚡  Fun fact 
 I enjoy writing sockets and low level modules. 
