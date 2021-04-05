@@ -16,7 +16,7 @@ At the moment I work at [Bicom Systems](https://bicomsystems.com)- leader in VoI
 - [BLM](https://github.com/Say-Their-Name/say-their-names-node-service) url shortening service
 
 #### Languages and stacks:
-Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Swift, Bash, Node ,Go ,V and MongoDB 
+Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Swift, Objective C, Bash, Node ,Go ,V and MongoDB 
 
 ### 🙍‍♂️ Personal 
 
