@@ -2,7 +2,7 @@
 
 I'm Nedim, self-taught teen mobile and backend developer from Bosnia and Herzegovina. 
 
-I'm currently working on maintaining the [Maildroid](https://github.com/nedimf/maildroid) android library, which has over 130 ⭐️ .  It's a simple and robust wrapper of JavaMail API. It allows users to send emails directly from their own SMTP servers. It's great for getting feedback from a user about your app without opening the default E-mail app, also it can be used for sending anonymous bug reports inside the app.
+I'm currently working on maintaining the [Maildroid](https://github.com/nedimf/maildroid) android library, which has over 150 ⭐️ .  It's a simple and robust wrapper of JavaMail API. It allows users to send emails directly from their own SMTP servers. It's great for getting feedback from a user about your app without opening the default E-mail app, also it can be used for sending anonymous bug reports inside the app.
 Maildroid is used by thousand apps every week and most notebly by [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_US)
 
 I'm also the author of the [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
