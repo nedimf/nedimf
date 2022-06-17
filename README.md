@@ -7,7 +7,7 @@ Maildroid is used by thousand apps every week and most notebly by [MacroDroid](h
 
 I'm also the author of the [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
 
-At the moment I work at [Bicom Systems](https://bicomsystems.com)- leader in VoIP solutions. 
+At the moment I work at [Mistral](https://mistral.ba)- iOS Engineer 
 
 #### My other projects :
 - [Tweetly: Make Instagram ready Tweets](https://apps.apple.com/cz/app/tweetly-beautiful-tweets/id1541402354) is iOS app for creating astonishing posts out of any Tweet
@@ -17,13 +17,13 @@ At the moment I work at [Bicom Systems](https://bicomsystems.com)- leader in VoI
 - [BLM](https://github.com/Say-Their-Name/say-their-names-node-service) url shortening service
 
 #### Languages and stacks:
-Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Swift, Objective C, Bash, Node ,Go ,V and MongoDB 
+Swift, Go, Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Objective C, Bash, Node ,V and MongoDB 
 
 ### 🙍‍♂️ Personal 
 
 I enjoy reading books and writing blog posts about various tech topics on [dev.to](https://dev.to/nedimf)
 
-You can reach me on [instagram](https://instagram.com/nedimcodes) and [twitter](https://twitter.com/nedimcodes).
+You can reach me on [instagram](https://instagram.com/nedimcodes) and [twitter](https://twitter.com/nedim0x01).
 
 ### ⚡  Fun fact 
 I enjoy writing sockets and low level modules. 
