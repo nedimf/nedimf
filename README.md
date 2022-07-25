@@ -7,7 +7,7 @@ Maildroid is used by thousand apps every week and most notebly by [MacroDroid](h
 
 I'm also the author of the [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
 
-At the moment I work at [Mistral](https://mistral.ba)- iOS Engineer 
+At the moment I work at [Mistral](https://mistral.ba)- iOS Engineer. previously worked at [Bicom Systems](https://bicomsystems.com)
 
 #### My other projects :
 - [Tweetly: Make Instagram ready Tweets](https://apps.apple.com/cz/app/tweetly-beautiful-tweets/id1541402354) is iOS app for creating astonishing posts out of any Tweet
