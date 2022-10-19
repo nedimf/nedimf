@@ -17,7 +17,7 @@ At the moment I work at [Mistral by HTEC Group](https://mistral.ba)- iOS Enginee
 - [TraceIT](https://github.com/TechAvangers/TrackIT-iOS) contact tracing API before any other CWA trackers.
 - [BLM](https://github.com/Say-Their-Name/say-their-names-node-service) url shortening service
 ----
-You can see list of all my projects [here](https://nedimfakic.com/?path=page+portfolio)
+You can see list of all my projects [here](https://nedimfakic.com/?path=page+portfolio).
 
 #### Languages and stacks:
 Swift, Go, Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Objective C, Bash, Node ,V and MongoDB 
