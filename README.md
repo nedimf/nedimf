@@ -1,34 +1,25 @@
 ### Hi there 👋
 
-I'm Nedim, self-taught teen mobile and backend developer from Bosnia and Herzegovina. 
+I'm Nedim mobile and backend developer.
 
-I'm currently working on maintaining the [Maildroid](https://github.com/nedimf/maildroid) android library, which has over 150 ⭐️ .  It's a simple and robust wrapper of JavaMail API. It allows users to send emails directly from their own SMTP servers. It's great for getting feedback from a user about your app without opening the default E-mail app, also it can be used for sending anonymous bug reports inside the app.
-Maildroid is used by thousand apps every week and most notebly by [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_US)
+Currently I work on creating privacy orianted, self hosted mobile analytics called [Blazing Report](https://nedimfakic.com/?path=backend+blazing-report).
 
-I'm also the author of the [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
+I'm maintaining my android library [Maildroid](https://github.com/nedimf/maildroid that has over 170 ⭐️. It's a simple and robust wrapper of JavaMail API. It's great for getting feedback from a user without need to open default E-mail app, also it can be used for sending anonymous bug reports or other attachments. Maildroid is used by thousand apps every week and most notebly by [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_US)
 
-At the moment I work at [Mistral](https://mistral.ba)- iOS Engineer. previously worked at [Bicom Systems](https://bicomsystems.com)
+I've authored [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
+At the moment I work at [Mistral by HTEC Group](https://mistral.ba)- iOS Engineer, previously worked at [Bicom Systems](https://bicomsystems.com)
 
 #### My other projects :
-- [Tweetly: Make Instagram ready Tweets](https://apps.apple.com/cz/app/tweetly-beautiful-tweets/id1541402354) is iOS app for creating astonishing posts out of any Tweet
+- [Tweetly: Make Instagram ready Tweets](https://nedimfakic.com/?path=ios+tweetly) is iOS app for creating astonishing posts out of any Tweet
+- [Travel AR](https://nedimfakic.com/?path=ios+travel-travnik-ar)
 - [Vmob](https://github.com/nedimf/vmob) is CLI tool that cross compiles V written module for use in iOS/Android targets trough C layer
 - [Mask: Free and powerful AQI monitor](https://play.google.com/store/apps/details?id=co.nedim.themask) is android app for monitoring AQI levels world wide
 - [TraceIT](https://github.com/TechAvangers/TrackIT-iOS) contact tracing API before any other CWA trackers.
 - [BLM](https://github.com/Say-Their-Name/say-their-names-node-service) url shortening service
+----
+You can see list of all my projects [here](https://nedimfakic.com/?path=page+portfolio)
 
 #### Languages and stacks:
 Swift, Go, Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Objective C, Bash, Node ,V and MongoDB 
 
-### 🙍‍♂️ Personal 
-
-I enjoy reading books and writing blog posts about various tech topics on [dev.to](https://dev.to/nedimf)
-
 You can reach me on [instagram](https://instagram.com/nedimcodes) and [twitter](https://twitter.com/nedim0x01).
-
-### ⚡  Fun fact 
-I enjoy writing sockets and low level modules. 
-
-### Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nedimf&repo=maildroid)](https://github.com/nedimf/maildroid)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vlang&repo=v)](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v)
