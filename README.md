@@ -11,7 +11,7 @@ At the moment I work at [Mistral by HTEC Group](https://mistral.ba)- iOS Enginee
 
 #### My other projects :
 - [Tweetly: Make Instagram ready Tweets](https://nedimfakic.com/?path=ios+tweetly) is iOS app for creating astonishing posts out of any Tweet
-- [Travel AR](https://nedimfakic.com/?path=ios+travel-travnik-ar)
+- [Travel AR](https://nedimfakic.com/?path=ios+travel-travnik-ar) is an iOS app that lets you experience visiting new city trough AR
 - [Vmob](https://github.com/nedimf/vmob) is CLI tool that cross compiles V written module for use in iOS/Android targets trough C layer
 - [Mask: Free and powerful AQI monitor](https://play.google.com/store/apps/details?id=co.nedim.themask) is android app for monitoring AQI levels world wide
 - [TraceIT](https://github.com/TechAvangers/TrackIT-iOS) contact tracing API before any other CWA trackers.
