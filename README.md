@@ -4,7 +4,7 @@ I'm Nedim mobile and backend developer.
 
 Currently I work on creating privacy orianted, self hosted mobile analytics called [Blazing Report](https://nedimfakic.com/?path=backend+blazing-report).
 
-I'm maintaining my android library [Maildroid](https://github.com/nedimf/maildroid that has over 170 ⭐️. It's a simple and robust wrapper of JavaMail API. It's great for getting feedback from a user without need to open default E-mail app, also it can be used for sending anonymous bug reports or other attachments. Maildroid is used by thousand apps every week and most notebly by [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_US)
+I've authored and maintained android library [Maildroid](https://github.com/nedimf/maildroid) that has over 170 ⭐️. It's a simple and robust wrapper of JavaMail API. It's great for getting feedback from a user without need to open default E-mail app, also it can be used for sending anonymous bug reports or other attachments. Maildroid is used by thousand apps every week and most notebly by [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_US)
 
 I've authored [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
 At the moment I work at [Mistral by HTEC Group](https://mistral.ba)- iOS Engineer, previously worked at [Bicom Systems](https://bicomsystems.com)
