@@ -22,4 +22,4 @@ You can see list of all my projects [here](https://nedimfakic.com/?path=page+por
 #### Languages and stacks:
 Swift, Go, Kotlin, Java, PHP, JS, Python,C++ Android, iOS, Objective C, Bash, Node ,V and MongoDB 
 
-You can reach me on [instagram](https://instagram.com/nedimcodes) and [twitter](https://twitter.com/nedim0x01).
+You can reach me on [instagram](https://instagram.com/_nedimf) and [twitter](https://twitter.com/nedim0x01).
