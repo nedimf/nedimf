@@ -8,7 +8,7 @@ I've authored and maintained android library [Maildroid](https://github.com/nedi
 
 I've authored [V SMTP](https://github.com/vlang/v/blob/master/vlib/net/smtp/smtp.v) module that lays in the V standard library. 
 
-At the moment I work at [Mistral by HTEC Group](https://mistral.ba)- iOS Engineer, previously worked at [Bicom Systems](https://bicomsystems.com)
+At the moment I work at [HTEC Group](https://htecgroup.com)- iOS Engineer, previously worked at [Mistral](https://mistral.ba)* and [Bicom Systems](https://bicomsystems.com)
 
 #### My other projects :
 - [Tweetly: Make Instagram ready Tweets](https://nedimfakic.com/?path=ios+tweetly) is iOS app for creating astonishing posts out of any Tweet
